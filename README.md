@@ -99,8 +99,8 @@
 
 <br/>
 
-## 🏙️ Contribution Skyline
+## 👾 Contribution Invaders
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anya2407/anya2407/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
+<img src="https://raw.githubusercontent.com/anya2407/anya2407/output/commit-invaders.svg" alt="Contribution Invaders" width="100%"/>
 </div>
