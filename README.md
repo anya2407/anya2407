@@ -16,11 +16,10 @@
 
 ## 🌸 About Me
 
-- 🎓 B.E. in Artificial Intelligence & Machine Learning at Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, recipient of a merit scholarship for two consecutive years
-- 🧠 Working mostly in deep learning and computer vision, with growing interest in generative and agentic AI
-- 💻 Also comfortable on the full-stack side — building REST APIs and designing relational databases
-- 🏸 Gold medalist in badminton at InterTech 2024, InterTech 2025, and Ranneeti 2025 (IIT Mandi)
-- ✨ Currently building out agentic AI systems
+- 🎓 B.E. in AI & Machine Learning, Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, merit scholarship recipient for 3 consecutive years
+- 🧠 Machine learning, deep learning & computer vision, with growing focus on generative and agentic AI
+- 💻 Full-stack capable — REST APIs, relational databases
+- 🏸 Gold medalist in badminton — InterTech 2024, InterTech 2025, Ranneeti 2025 (IIT Mandi)
 
 <br/>
 
@@ -84,16 +83,6 @@
 
 <br/>
 
-## 📊 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=anya2407&background=fff0f5&border=FFB6C1&stroke=FFB6C1&ring=FF69B4&fire=FFB6C1&currStreakLabel=9370DB&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=999999" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
 ## 🧱 Contribution Breakout
 
 <div align="center">
@@ -102,4 +91,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anya2407/anya2407/github-breakout/images/breakout-light.svg">
   <img alt="Contribution Breakout" src="https://raw.githubusercontent.com/anya2407/anya2407/github-breakout/images/breakout-light.svg" width="100%">
 </picture>
+</div>
+
+<br/>
+
+## 📊 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=anya2407&background=fff0f5&border=FFB6C1&stroke=FFB6C1&ring=FF69B4&fire=FFB6C1&currStreakLabel=9370DB&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=999999" alt="GitHub Streak"/>
+
 </div>
