@@ -102,7 +102,5 @@
 ## 🏙️ Contribution Skyline
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anya2407/anya2407/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
-
-<sub>👆 This one needs a tiny one-time setup — see the "Fix This" section below.</sub>
+<img src="https://raw.githubusercontent.com/anya2407/anya2407/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
 </div>
