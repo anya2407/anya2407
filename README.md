@@ -99,8 +99,12 @@
 
 <br/>
 
-## 👾 Contribution Invaders
+## 🧱 Contribution Breakout
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/anya2407/anya2407/output/commit-invaders.svg" alt="Contribution Invaders" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anya2407/anya2407/github-breakout/images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anya2407/anya2407/github-breakout/images/breakout-light.svg">
+  <img alt="Contribution Breakout" src="https://raw.githubusercontent.com/anya2407/anya2407/github-breakout/images/breakout-light.svg" width="100%">
+</picture>
 </div>
