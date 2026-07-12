@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anya+%F0%9F%91%8B;Training+neural+nets+by+day+%F0%9F%A7%A0;Smashing+shuttlecocks+by+night+%F0%9F%8F%B8;Hitting+high+notes+in+between+%F0%9F%8E%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anya+Arora;AI%2FML+Engineer+%7C+Full-Stack+Developer;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Generative+%26+Agentic+AI" alt="Typing SVG" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  <img src="https://img.shields.io/badge/Gmail-FFDAB9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-
-  <sub>⚠️ Update the links behind these badges below — see the "Fix This" note at the bottom!</sub>
+  <a href="https://www.linkedin.com/in/anya-arora-b829ab305/"><img src="https://img.shields.io/badge/LinkedIn-D8B4FE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/5kTPXIsttL/"><img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="mailto:anyaarora2407@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFDAB9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -18,16 +16,15 @@
 
 ## 🌸 About Me
 
-- 🎓 B.E. in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*
-- 🧠 Into **Deep Learning, Computer Vision, Generative AI & Agentic AI**
-- 💻 Also build full-stack apps — REST APIs, databases, the whole thing
-- 🏸 **Badminton player** — Gold medalist at InterTech 2024, InterTech 2025 & Ranneeti 2025 (IIT Mandi)
-- 🎤 Singer at heart, music runs through everything I do
-- ✨ Currently exploring agentic AI systems and leveling up my ML fundamentals
+- 🎓 B.E. in **Artificial Intelligence & Machine Learning**, Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, recipient of a merit scholarship for two consecutive years
+- 🧠 Focused on **Deep Learning, Computer Vision, Generative AI, and Agentic AI**
+- 💻 Experience building full-stack applications, including REST APIs and relational database design
+- 🏸 Gold medalist in badminton at InterTech 2024, InterTech 2025, and Ranneeti 2025 (IIT Mandi)
+- ✨ Currently working on agentic AI systems
 
 <br/>
 
-## 🩷 Tech Stack
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite,flask,fastapi,git,github,vscode,opencv,tensorflow,jupyter&theme=light" alt="tech stack icons"/>
@@ -73,43 +70,6 @@
 </div>
 
 <br/>
-
-## 🌷 Featured Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🔍 Quora Duplicate Question Detection
-`Python` `LightGBM` `BERT`
-
-End-to-end NLP pipeline over 400K+ records. TF-IDF + Word2Vec features with a LightGBM baseline (82% accuracy), then fine-tuned BERT to push accuracy to 91% and F1 to 0.88.
-
-**[View Repo →](https://github.com/anya2407/quora-duplicate-question-detection)**
-
-</td>
-<td width="33%" valign="top">
-
-### 💸 SplitCore — Expense Sharing App
-`Flask` `SQLAlchemy` `MySQL` `Pydantic`
-
-REST API expense-splitter with bcrypt auth, a normalized 3NF schema across 5 tables, and a greedy debt-simplification algorithm cutting redundant payments by up to 70%.
-
-**[View Repo →](https://github.com/anya2407/splitcore)**
-
-</td>
-<td width="33%" valign="top">
-
-### 🍎 Fruit Freshness & Dynamic Pricing
-`Python` `TensorFlow` `MobileNetV2`
-
-CV pipeline on 10,000+ images for freshness classification & dynamic pricing (93% accuracy). Used LIME & Occlusion Sensitivity for explainability on pricing decisions.
-
-**[View Repo →](https://github.com/anya2407/fruit-freshness-dynamic-pricing)**
-
-</td>
-</tr>
-</table>
 
 <br/>
 
