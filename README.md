@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anya+Arora;AI%2FML+Engineer+%7C+Full-Stack+Developer;Deep+Learning+%C2%B7+Computer+Vision+%C2%B7+Generative+%26+Agentic+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Anya" alt="Typing SVG" />
 
 </div>
 
@@ -16,24 +16,70 @@
 
 ## 🌸 About Me
 
-- 🎓 B.E. in **Artificial Intelligence & Machine Learning**, Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, recipient of a merit scholarship for two consecutive years
-- 🧠 Focused on **Deep Learning, Computer Vision, Generative AI, and Agentic AI**
-- 💻 Experience building full-stack applications, including REST APIs and relational database design
+- 🎓 B.E. in Artificial Intelligence & Machine Learning at Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, recipient of a merit scholarship for two consecutive years
+- 🧠 Working mostly in deep learning and computer vision, with growing interest in generative and agentic AI
+- 💻 Also comfortable on the full-stack side — building REST APIs and designing relational databases
 - 🏸 Gold medalist in badminton at InterTech 2024, InterTech 2025, and Ranneeti 2025 (IIT Mandi)
-- ✨ Currently working on agentic AI systems
+- ✨ Currently building out agentic AI systems
 
 <br/>
 
 ## Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql,sqlite,flask,fastapi,git,github,vscode,opencv,tensorflow,jupyter&theme=light" alt="tech stack icons"/>
+**Languages**
+<div>
+<img src="https://img.shields.io/badge/Python-D8B4FE?style=for-the-badge&logo=python&logoColor=333333" alt="Python"/>
+<img src="https://img.shields.io/badge/C-D8B4FE?style=for-the-badge&logo=c&logoColor=333333" alt="C"/>
+<img src="https://img.shields.io/badge/C%2B%2B-D8B4FE?style=for-the-badge&logo=cplusplus&logoColor=333333" alt="C++"/>
+<img src="https://img.shields.io/badge/SQL-D8B4FE?style=for-the-badge&logo=databricks&logoColor=333333" alt="SQL"/>
 </div>
 
-<div align="center">
+**Libraries**
+<div>
+<img src="https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=333333" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=333333" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Matplotlib-FFB6C1?style=for-the-badge&logo=plotly&logoColor=333333" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Seaborn-FFB6C1?style=for-the-badge&logoColor=333333" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FFB6C1?style=for-the-badge&logo=tensorflow&logoColor=333333" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/OpenCV-FFB6C1?style=for-the-badge&logo=opencv&logoColor=333333" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/Pydantic-FFB6C1?style=for-the-badge&logo=pydantic&logoColor=333333" alt="Pydantic"/>
+</div>
 
-`NumPy` `Pandas` `Matplotlib` `Seaborn` `Pydantic` `SQLAlchemy` `LightGBM` `BERT`
+**ML/DL Frameworks**
+<div>
+<img src="https://img.shields.io/badge/PyTorch-FFB6C1?style=for-the-badge&logo=pytorch&logoColor=333333" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/Scikit--learn-FFB6C1?style=for-the-badge&logo=scikitlearn&logoColor=333333" alt="Scikit-learn"/>
+<img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-FFB6C1?style=for-the-badge&logo=huggingface&logoColor=333333" alt="Hugging Face Transformers"/>
+</div>
 
+**GenAI & Agentic AI**
+<div>
+<img src="https://img.shields.io/badge/LangChain-BFDBFE?style=for-the-badge&logo=langchain&logoColor=333333" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-BFDBFE?style=for-the-badge&logoColor=333333" alt="LangGraph"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-BFDBFE?style=for-the-badge&logo=openai&logoColor=333333" alt="OpenAI API"/>
+<img src="https://img.shields.io/badge/Streamlit-BFDBFE?style=for-the-badge&logo=streamlit&logoColor=333333" alt="Streamlit"/>
+</div>
+
+**Frameworks**
+<div>
+<img src="https://img.shields.io/badge/Flask-BFDBFE?style=for-the-badge&logo=flask&logoColor=333333" alt="Flask"/>
+<img src="https://img.shields.io/badge/FastAPI-BFDBFE?style=for-the-badge&logo=fastapi&logoColor=333333" alt="FastAPI"/>
+</div>
+
+**Database**
+<div>
+<img src="https://img.shields.io/badge/MySQL-FFDAB9?style=for-the-badge&logo=mysql&logoColor=333333" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQLite-FFDAB9?style=for-the-badge&logo=sqlite&logoColor=333333" alt="SQLite"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-FFDAB9?style=for-the-badge&logoColor=333333" alt="SQLAlchemy"/>
+</div>
+
+**Tools**
+<div>
+<img src="https://img.shields.io/badge/Git-D8B4FE?style=for-the-badge&logo=git&logoColor=333333" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-D8B4FE?style=for-the-badge&logo=github&logoColor=333333" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-D8B4FE?style=for-the-badge&logo=visualstudiocode&logoColor=333333" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Jupyter-D8B4FE?style=for-the-badge&logo=jupyter&logoColor=333333" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Google%20Colab-D8B4FE?style=for-the-badge&logo=googlecolab&logoColor=333333" alt="Google Colab"/>
 </div>
 
 <br/>
@@ -53,30 +99,10 @@
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anya2407&theme=juicyfresh&no-frame=true&row=2&column=4" alt="trophies"/>
-</div>
-
-<br/>
-
 ## 🏙️ Contribution Skyline
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/anya2407/anya2407/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution skyline"/>
 
 <sub>👆 This one needs a tiny one-time setup — see the "Fix This" section below.</sub>
-</div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-### 🎶 "Debugging code, hitting high notes, and rallying till match point." 🏸
-
-<img src="https://komarev.com/ghpvc/?username=anya2407&color=D8B4FE&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
-
 </div>
