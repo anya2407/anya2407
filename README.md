@@ -84,14 +84,9 @@
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anya2407&show_icons=true&bg_color=fff0f5&title_color=9370DB&text_color=555555&icon_color=FF69B4&border_color=FFB6C1&hide_border=false" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anya2407&layout=compact&bg_color=fff0f5&title_color=9370DB&text_color=555555&border_color=FFB6C1&hide_border=false" alt="Top Languages"/>
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=anya2407&background=fff0f5&border=FFB6C1&stroke=FFB6C1&ring=FF69B4&fire=FFB6C1&currStreakLabel=9370DB&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=999999" alt="GitHub Streak"/>
 
