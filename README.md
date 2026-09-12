@@ -14,11 +14,11 @@
 
 <br/>
 
-## 🌸 About Me
+## About Me
 
-- 🎓 B.E. in AI & Machine Learning, Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, merit scholarship recipient for 3 consecutive years
-- 🧠 Machine learning, deep learning & computer vision, with growing focus on generative and agentic AI
-- 💻 Full-stack capable — REST APIs, relational databases
+- B.E. in AI & Machine Learning, Thapar Institute of Engineering & Technology *(GPA: 9.46/10)*, merit scholarship recipient for 3 consecutive years
+- Machine learning, deep learning & computer vision, with growing focus on generative and agentic AI
+- Full-stack capable — REST APIs, relational databases
 
 <br/>
 
